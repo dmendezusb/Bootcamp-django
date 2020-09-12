@@ -9,7 +9,7 @@ if (characterOne == "Snape"):
 elif (characterOne == "Harry"):
   print("Harry toca la trompeta")
   
-  #CharacterTwo
+#CharacterTwo
 if (characterOne == "Hermione"):
   print("Hermione toca la flauta")
 elif (characterOne == "Ron"):
